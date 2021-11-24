@@ -1,0 +1,20 @@
+.Button_main{
+  max-width: 12em;
+  min-width: 4em;
+  padding: 0.6em 0;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 20px;
+  background: #00123F;
+  border-radius: 20px;
+  color: #BAD5FF;
+  text-align: center;
+  transition: background .4s ease-out;
+}
+.Button_main:hover{
+  outline: none;
+  transition: all 0.2s ease;
+  background: linear-gradient(90deg, rgba(34, 88, 192, 0.59) 3.05%, rgba(48, 92, 175, 0.64) 96.54%);
+}
