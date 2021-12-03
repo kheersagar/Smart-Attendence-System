@@ -136,8 +136,8 @@ var template = (name,email)=>{
         <td style="overflow-wrap:break-word;word-break:break-word;padding:18px 10px 10px;font-family:'Montserrat',sans-serif;" align="left">
           
     <div style="color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;">
-      <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 28px; line-height: 39.2px;"><strong><span style="line-height: 39.2px; font-size: 28px;">Team CollegeMentor</span></strong></span></p>
-  <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 44px; line-height: 61.6px;"><strong><span style="line-height: 61.6px; font-size: 44px;"><span style="line-height: 61.6px; font-size: 44px;">Welcoming You!!!</span></span></strong></span></p>
+      <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 28px; line-height: 39.2px;"><strong><span style="line-height: 39.2px; font-size: 28px;">Smart Attendence System</span></strong></span></p>
+   <p style="font-size: 14px; line-height: 140%;"><span style="font-size: 44px; line-height: 61.6px;"><strong><span style="line-height: 61.6px; font-size: 44px;"><span style="line-height: 61.6px; font-size: 44px;">WELCOME</span></span></strong></span></p>
   <p style="font-size: 14px; line-height: 140%;">&nbsp;</p>
     </div>
   
@@ -188,9 +188,8 @@ var template = (name,email)=>{
         <td style="overflow-wrap:break-word;word-break:break-word;padding:20px 10px 29px;font-family:'Montserrat',sans-serif;" align="left">
           
     <div style="color: #ffffff; line-height: 200%; text-align: center; word-wrap: break-word;">
-      <p style="font-size: 14px; line-height: 200%;"><span style="font-size: 16px; line-height: 32px;">Intimate live performance</span></p>
-  <p style="font-size: 14px; line-height: 200%;"><span style="font-size: 16px; line-height: 32px;">Exclusive interview + Q&amp;A</span></p>
-  <p style="font-size: 14px; line-height: 200%;"><span style="font-size: 16px; line-height: 32px;">Thunder series jazzmaster giveaway</span></p>
+      <p style="font-size: 14px; line-height: 200%;"><span style="font-size: 16px; line-height: 32px;">Fast Reliable</span></p>
+  <p style="font-size: 14px; line-height: 200%;"><span style="font-size: 16px; line-height: 32px;">IoT Web App</span></p>
     </div>
   
         </td>
@@ -206,7 +205,7 @@ var template = (name,email)=>{
   <div align="center">
     <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;font-family:'Montserrat',sans-serif;"><tr><td style="font-family:'Montserrat',sans-serif;" align="center"><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:45px; v-text-anchor:middle; width:196px;" arcsize="0%" stroke="f" fillcolor="#000000"><w:anchorlock/><center style="color:#ffffff;font-family:'Montserrat',sans-serif;"><![endif]-->
       <a href="" target="_blank" style="box-sizing: border-box;display: inline-block;font-family:'Montserrat',sans-serif;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #ffffff; background-color: #000000; border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;">
-        <span style="display:block;padding:12px 30px;line-height:120%;"><span style="font-size: 18px; line-height: 21.6px;"><strong><span style="line-height: 21.6px; font-size: 18px;">collegeMentor</span></strong></span></span>
+        <span style="display:block;padding:12px 30px;line-height:120%;"><span style="font-size: 18px; line-height: 21.6px;"><strong><span style="line-height: 21.6px; font-size: 18px;">SAS</span></strong></span></span>
       </a>
     <!--[if mso]></center></v:roundrect></td></tr></table><![endif]-->
   </div>
@@ -313,7 +312,7 @@ var template = (name,email)=>{
         <td style="overflow-wrap:break-word;word-break:break-word;padding:19px 10px 10px;font-family:'Montserrat',sans-serif;" align="left">
           
     <div style="color: #444444; line-height: 140%; text-align: left; word-wrap: break-word;">
-      <p style="line-height: 140%; text-align: center; font-size: 14px;"><strong>collegeMentor</strong></p>
+      <p style="line-height: 140%; text-align: center; font-size: 14px;"><strong>SAS</strong></p>
     </div>
   
         </td>
