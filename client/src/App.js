@@ -1,8 +1,6 @@
 import './App.css';
 import React, {useState, useEffect} from 'react';
-import Button from './components/Button/Button';
-import Input from './components/Input/Input';
-
+import "./index.css";
 function App() {
 
   const [input, setInput] = useState("hello");
@@ -21,8 +19,13 @@ function App() {
 
   return (
     <div className="App">
-      <Button text="Log In" color="blue" onClick={Submit}/>
-      <Input placeholder="Unique ID" />
+    {/* class name Button_main is defined in index.css and can be used anywhere if we want same button styling */}
+      <button className="Button_main" onClick={Submit}>Log In</button> 
+      {/* class name input-group is defined in index.css and can be used anywhere if we want same input styling */}
+      <div className="input-group">
+        <input type="text" className="input_field" required />
+        <label className="input_field_label" >asdas</label>
+      </div>
     </div>
   );
 }
