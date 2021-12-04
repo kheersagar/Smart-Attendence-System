@@ -1,4 +1,5 @@
 const express = require("express");
+const bodyParser = require("body-parser")
 const app = express();
 const mongoose  = require("mongoose");
 const dotenv = require("dotenv").config();
@@ -19,3 +20,7 @@ app.get("/",(req,res)=>{
 app.listen(process.env.PORT || 8080,()=>{
   console.log(`server started on port  ${process.env.PORT || 8080}` );
 });
+
+app.post("/login", async (req,res)=>{
+  // const { input } = req.body;
+})
